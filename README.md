@@ -1,0 +1,1 @@
+Este proyecto en Java implementa un gestor de tareas usando listas enlazadas genéricas. Permite agregar, eliminar, mostrar, invertir y completar tareas a través de un menú interactivo en consola. Las tareas tienen un título y una prioridad, y se manejan con clases personalizadas (Tarea, Node, GestorDeTareas).
